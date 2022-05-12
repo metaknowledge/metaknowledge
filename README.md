@@ -3,4 +3,4 @@
 - I’m currently learning programming, game dev
 - How to reach me danielh5@uw.edu
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metaknowledge)](https://github.com/metaknowledge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaknowlegde&layout=compact)](https://github.com/metaknowlegde/github-readme-stats)
