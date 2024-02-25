@@ -1,4 +1,4 @@
-- Hi, I’m @metaknowledge
+- Hi, looking for Daniel?
 - I’m interested in programming, game dev, and skiing.
 - you can reach me @ danielh5@uw.edu
 
