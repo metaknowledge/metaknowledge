@@ -1,2 +1,3 @@
 - Hi, looking for Daniel?
+- Check out my website at: https://danhugh.es
 - I’m interested in programming, game dev, and skiing.
